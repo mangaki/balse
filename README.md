@@ -20,6 +20,7 @@ To quote the paper, please use:
          year = 2017,
         month = sep,
        adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170901584V},
+      url = {https://arxiv.org/abs/1709.01584},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
     }
 
