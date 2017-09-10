@@ -2,7 +2,8 @@
 
 Featuring Blended Alternate Least Squares with Explanation (**BALSE**).
 
-[PDF](https://arxiv.org/abs/1709.01584)
+- [PDF](https://arxiv.org/abs/1709.01584) on arXiv
+- Comments on [Hacker News](https://news.ycombinator.com/item?id=15203024)
 
 To quote the paper, please use:
 
@@ -14,14 +15,15 @@ To quote the paper, please use:
     archivePrefix = "arXiv",
        eprint = {1709.01584},
      primaryClass = "cs.IR",
-     keywords = {Computer Science - Information Retrieval, Computer Science - Learning, Statistics - Machine Learning, recommender system, cold-start, collaborative filtering, LASSO, tag prediction},
+     keywords = {Computer Science - Information Retrieval, Computer Science - Learning,
+        Statistics - Machine Learning, recommender system, cold-start, collaborative filtering, LASSO, tag prediction},
          year = 2017,
         month = sep,
        adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170901584V},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
     }
 
-## Data Challenge
+## Mangaki Data Challenge
 
 We organize a data challenge about recommender systems with Kyoto University. Until **October 1**.
 
