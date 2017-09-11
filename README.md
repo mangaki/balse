@@ -1,9 +1,12 @@
 # Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario
 
+[![](banner.png)](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/)
+
 Featuring Blended Alternate Least Squares with Explanation (**BALSE**).
 
 - [PDF](https://arxiv.org/abs/1709.01584) on arXiv
 - Comments on [Hacker News](https://news.ycombinator.com/item?id=15203024)
+- [Data Challenge](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) running until **October 1**!
 
 To quote the paper, please use:
 
