@@ -5,7 +5,8 @@ Featuring Blended Alternate Least Squares with Explanation (**BALSE**).
 - [PDF](https://arxiv.org/abs/1709.01584) on arXiv
 - [Jupyter Notebook](https://github.com/mangaki/notebooks/blob/master/Balse%203.ipynb)
 - Comments on [Hacker News](https://news.ycombinator.com/item?id=15203024) (We made it to the front page!)
-- [Data Challenge](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) running until **October 1**
+- [Data Challenge](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) (now finished)
+- We are on [Papers with code](https://paperswithcode.com/paper/using-posters-to-recommend-anime-and-mangas)
 
 ## Abstract
 
